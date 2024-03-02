@@ -4,6 +4,7 @@
 运行注意安装配置selenium库
 ---
 ```
+pip install selenium
 python3 get_img.py
 ```
 
