@@ -3,7 +3,7 @@
 ---
 运行注意安装配置selenium库
 ---
-...
+···
 python3 get_img.py
-...
+···
 
