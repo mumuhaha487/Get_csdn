@@ -12,7 +12,6 @@
 ./start.sh
 ```
 ## 作者的提醒
-最好用pycharm运行那两个python文件
-注意配置selenium的谷歌驱动（过一段时间写一个不用selenium库的）
+最好用pycharm运行那两个python文件，注意配置selenium的谷歌驱动（过一段时间写一个不用selenium库的），同一时间多次爬取会有验证。
 
 
