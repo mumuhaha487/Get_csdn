@@ -1,0 +1,6 @@
+blog_id: "mumuemhaha" #你的博客名称也就是点开个人主页https://blog.csdn.net/？？？，“？？？”的内容
+cookie : "you_cookie"  #配置你的cookie
+img_path: "img"  #博客图片的相对路径
+md_path: "markdown" #md文件保存的相对路径
+old_img_link: "https://img-blog.csdnimg.cn/"  #检测https://img-blog.csdnimg.cn/链接进行替换一般不需要改
+you_blog_link: "you_blog_link"  #你迁移到博客的博客链接，亦或者是你的cdn链接
